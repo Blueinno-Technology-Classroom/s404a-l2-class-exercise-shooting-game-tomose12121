@@ -1,3 +1,9 @@
+## Installing Installing Pygame Zero
+For Mac and Windows users
+```bash
+pip install pgzero
+```
+
 ## Submitting Your Work
 
 1. Make sure the assignment repository is opened in VS Code.
